@@ -1,4 +1,4 @@
-# This.Store Ecommerce 🔥
+# This.Store Vue Project
 
 ## Check out the app here ➡️ https://this-store.netlify.app
 
